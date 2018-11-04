@@ -10,4 +10,4 @@ Program runs forever printing "POOP!".  So much poop.
 
 # Screenshot
 
-![Connor First App Screenshot](/Images/ConnorFirstApp_Screenshot.png)
+![Connor First App Screenshot](/images/ConnorFirstApp_Screenshot.png)
